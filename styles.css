@@ -1,0 +1,24 @@
+/* CSS file: css/styles.css */
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light grey background */
+    color: #333; /* Dark grey text */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling for headers */
+header {
+    background-color: #4CAF50; /* Green background for header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #593092; /* Green color for second header */
+    margin-top: 20px;
+}
+
